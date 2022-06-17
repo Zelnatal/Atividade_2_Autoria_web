@@ -3,9 +3,10 @@
 
 Essa é a segunda atividade de Autoria Web, passada no primeiro bimestre do 3 ano de informática, IFRN campus Mossoró.
 
-Tema: Filmes
+## 1.Tema: 
+- Filmes
 
-Grupo:
+## 2.Grupo:
 - Pedro
 - Gabriel Henrique
 - Placido
