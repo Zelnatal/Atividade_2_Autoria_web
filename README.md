@@ -1,6 +1,6 @@
 <h1 align="center"> Segunda Atividade de Autoria Web</h1>
-<img src="infoflix_logo.png" alt="Imagem não encontrada" width="50%">
-<img src="logo_ifrn.png" alt="Imagem não encontrada" width="50%">
+<img src="infoflix_logo.png" alt="Imagem não encontrada" width="40%">
+<img src="logo_ifrn.png" alt="Imagem não encontrada" width="40%">
 <font align="justify"><p>Essa é a segunda atividade de Autoria Web, passada no primeiro bimestre do 3 ano de informática, IFRN campus Mossoró.</p></font>
 
 <h2>1. Temas</h2>
