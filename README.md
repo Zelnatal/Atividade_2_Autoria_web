@@ -1,2 +1,8 @@
-# Atividade_2_Autoria_web
-Segunda atividade de autoria web, do 1º bimestre no 3º ano de info, atividade em grupo
+# Segunda Atividade de Autoria Web
+Essa é a segunda atividade de Autoria Web, passada no primeiro bimestre do 3 ano de informática, IFRN campus Mossoró.
+Tema: Filmes
+Grupo:
+    -Pedro
+    -Gabriel Henrique
+    -Placido
+    -Élnatan
