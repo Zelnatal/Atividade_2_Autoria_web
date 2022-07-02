@@ -9,4 +9,3 @@
 <li> Gabriel Henrique </li>
 <li> Placido </li>
 <li> Élnatan </li>
-<li> consegui </li>
